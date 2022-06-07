@@ -1,4 +1,4 @@
-#include"main.h"
+#include "main.h"
 
 /**
  * print_alphabet_x10 - utilizes putchar prototype to print alphabets

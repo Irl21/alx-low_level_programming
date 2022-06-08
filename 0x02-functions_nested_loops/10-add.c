@@ -1,4 +1,4 @@
-#include"main"
+#include"main.h"
 /**
  * add - adds two integers
  * @i: first argument of the function

@@ -2,12 +2,12 @@
 #include <stdio.h>
 
 /**
- * _putchar - prints a string
+ * _puts - prints a string
  * @str: input
  * Return: always 0
  */
 
-void _putchar(char *str)
+void _puts(char *str)
 {
 	int i = 0;
 

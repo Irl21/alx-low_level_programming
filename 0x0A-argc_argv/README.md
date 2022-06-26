@@ -1,0 +1,1 @@
+arg, argv, static libraries
